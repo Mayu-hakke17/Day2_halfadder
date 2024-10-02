@@ -1,1 +1,1 @@
-# halfadder
+# halfadder_verilog
